@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+matplotlib
+ultralytics
+tensorflow
+Pillow
+PyYAML
+ipython
